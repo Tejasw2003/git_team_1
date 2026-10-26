@@ -28,4 +28,6 @@ git rm -rf file/repo_name
 
 
 
-please add the discription for each command 
+please add the description for each command---mounika 
+
+seee i have added some more line as next line 
